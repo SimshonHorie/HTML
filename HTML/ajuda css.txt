@@ -1,0 +1,52 @@
+text-align: right; /* alinhamento do texto */ (right, left, center)
+color: #ffffff; /* cor do texto */
+
+line-height: 3px; /* tamanho da altura de cada linha */
+letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+
+background: #cccccc; /* cor do fundo */
+
+border-color: red; /* cor da borda */
+border-width: 1px; /* espessura da borda */
+border-radius: 5px;
+border-style: solid; /* tipo da linha da borda */
+    dotted - Define uma borda pontilhada
+    dashed - Define uma borda tracejada
+    solid - Define uma borda sólido
+    double - Define uma margem dupla
+    groove- Define uma borda sulcada 3D. O efeito depende do valor border-color
+    ridge- Define uma borda ridged 3D. O efeito depende do valor border-color
+    inset- Define uma borda inset 3D. O efeito depende do valor border-color
+    outset- Define uma borda início 3D. O efeito depende do valor border-color
+    none - Define sem fronteira
+    hidden - Define uma borda escondida
+
+
+/* Todos os tamanhos em CSS são em 'px' ou '%'' */
+margin-top /* margem acima */
+margin-right /* margem a direita */
+margin-bottom /* margem abaixo */
+margin-left /* margem esquerda */
+
+/* Padding é o espaço interno até o proximo elemento. */
+padding-top 
+padding-right
+padding-bottom
+padding-left
+
+font-style: normal;
+font-style: italic;
+font-size: 40px;
+
+ font-weight: bold;
+ font-weight: normal;
+
+ font-family: "Times New Roman", Times, serif;
+ font-family: Arial, Helvetica, sans-serif;
+
+ float: right;
+ float: left;
+
+ mais em https://www.w3schools.com/
